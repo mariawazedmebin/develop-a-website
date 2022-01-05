@@ -1,0 +1,38 @@
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+h1{
+    font-size: 50px;
+
+}
+p{
+    font-size: 15px;
+    color: navajowhite;
+}
+a{
+    text-align: center;
+}
+.full-site{
+    background-color: rgb(13, 13, 59);
+}
+.link-button{
+    text-decoration: none;
+    width: 50%;
+    color: white;
+    font-weight: 700;
+    background-color: rgb(13, 13, 48);
+}
+.link-right-button{
+    
+    text-decoration: none;
+    padding: 10px 30px;
+    color: white;
+    font-weight: 400;
+
+}
+.first-banner{
+    display: flex;
+    margin-bottom: 150px;
+    padding-left: 2%;
+
+}
